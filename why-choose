@@ -1,0 +1,64 @@
+ <div class="whychoose-text">
+  <p class="whychoose-text1">Why Choose Us </p>
+  <p>
+    The one and only bridal wholesale platform where you can find everything you need.
+  </p>
+</div>
+<div class="whychoose">
+    <div class="whychoose-left">
+      <img src="https://cdn.shopify.com/s/files/1/0611/3787/9193/files/167_1095a25e-6599-467b-bd6f-97af36ab637a.jpg?v=1688461654" alt="Logo" width="100%">
+    </div>
+    <div class="whychoose-right">
+      <div class="sqs-html-content" id="yui_3_17_2_1_1689040840555_4259">
+        <p class="" >🤍 5-month Payment Plan options available</p>
+        <p class="" >🤍 Private Label options available</p>
+        <p class="" >🤍 Fast Delivery options available</p>
+        <p class="">🤍 No Seasonal MOQ is required</p>
+        <p class="" >🤍 Marketing and Promotion support</p>
+        <p class="" >🤍 Modifications support</p>
+        <p class="" >🤍 New Designs Every Season</p>
+        <p class="" >🤍 Easy Ordering process, just click away</p>
+        <p class="" >🤍 Loyalty Program</p>
+        <p class="" >🤍 Free Shipping to the USA and the UK</p>
+        <p class="">🤍 New Partner Sample Bundle Deal</p>
+        <a href="https://www.herawhite.com/account/sign-up.html?sign_up=1" class="whyhoose-link">BECOME A RETAILER</a>
+      </div>
+    </div>
+  </div>
+<style>
+    .whychoose {
+      display: flex;
+      align-items: center;
+    }
+
+    .whychoose-left {
+      flex: 1;
+    }
+
+    .whychoose-right {
+      flex: 1;
+    }
+
+    .whychoose-right p {
+      margin: 0;
+      margin-bottom:20px;
+      margin-left:20px;
+      white-space:pre-wrap
+    }
+.whyhoose-link {
+  text-decoration: none;
+  background: black;
+  color:white;
+  display: block;
+  padding: 10px;
+  width: 40%;
+  margin-left:40px;
+ 
+}
+.whychoose-text1{
+  font-size:30px;
+}
+.whychoose-text{
+  text-align: center;
+}
+</style>
