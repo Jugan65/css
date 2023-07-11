@@ -1,0 +1,23 @@
+<div id="announcement-bar-text-inner">
+    <p class="announcement-bar-text">🎈🎉New Member Only! Add our WhatsApp number to have a BUY 5 GET 1 FREE DRESS surprise!🛍️🎁
+</p>
+  </div>
+
+  <div id="announcement-bar-text-inner" >
+    <p class="announcement-bar-text" >New Member Only! Add our WhatsApp number to have a BUY 5 GET 1 FREE DRESS surprise!🛍</p>
+  </div>
+<style>
+    #announcement-bar-text-inner {
+        background-color: black;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height:40px;
+    }
+    
+    .announcement-bar-text {
+        color: white;
+        white-space: pre-wrap;
+        text-align: center;
+    }
+</style>
